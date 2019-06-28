@@ -22,7 +22,7 @@ Instructions
 ## Tools
 
 
-* Firebase
+
 * HTML
 * CSS
 * JavaScript
