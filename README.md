@@ -1,4 +1,4 @@
-![img](./banner)
+![img](banner.png)
 
 # Project
 
